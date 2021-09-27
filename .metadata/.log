@@ -1,0 +1,202 @@
+!SESSION 2021-09-23 19:41:34.908 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-09-23 19:43:03.943
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-23 19:43:03.943
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e4c4fda,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2f58f492,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-23 19:43:11.666
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\55119'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-09-23 21:29:40.185
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-23 21:29:41.804
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-23 21:29:42.508
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-23 21:29:43.343
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-23 21:29:44.053
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-23 21:30:33.514
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-23 21:30:33.725
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.ui 2 2 2021-09-24 20:03:42.554
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-09-24 20:03:59.255
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-24 20:04:01.151
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-24 20:04:01.651
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-24 20:04:10.512
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-24 20:04:10.668
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-24 20:04:21.662
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-24 20:04:21.942
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-24 20:05:28.805
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-24 20:05:29.045
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:35:43.532
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:35:43.704
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@79e4ce22[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:35:43.807
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:35:44.992
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-09-27 19:35:46.274
+!MESSAGE Has main method computation for project 'bootcamp'
+!SESSION 2021-09-27 19:36:52.994 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-09-27 19:37:00.259
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2021-09-27 19:37:11.701
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-27 19:37:11.701
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@723b8eff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3987a1e8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-09-27 19:37:23.018
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\55119'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-09-27 19:37:37.159
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 19:37:44.403
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:13.375
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:13.376
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2391653b[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:13.400
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:13.426
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.027
+!MESSAGE Boot LS startup time from start to initialized: 2621ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.395
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.czWkjxmwisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.474
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.479
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.480
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.480
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.481
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.czWkjxmw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.487
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.491
+!MESSAGE buffering callback sts4.classpath.czWkjxmw bootcamp false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:16.492
+!MESSAGE executing callback sts4.classpath.czWkjxmw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:17.895
+!MESSAGE executing callback sts4.classpath.czWkjxmw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:18.587
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.czWkjxmw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:18.588
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.czWkjxmw
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:18.588
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:18.589
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.czWkjxmw => OK
