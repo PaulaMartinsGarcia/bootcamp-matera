@@ -200,3 +200,1462 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 19:38:18.589
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.czWkjxmw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:46.097
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:46.115
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2391653b[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:46.115
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.451
+!MESSAGE Boot LS startup time from start to initialized: 5334ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.662
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JksJniCYisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.663
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.664
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.664
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.665
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.665
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JksJniCY => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.672
+!MESSAGE classpath=94 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.676
+!MESSAGE buffering callback sts4.classpath.JksJniCY bootcamp false 94
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:51.677
+!MESSAGE executing callback sts4.classpath.JksJniCY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-09-27 20:53:53.573
+!MESSAGE executing callback sts4.classpath.JksJniCY SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-09-27 20:55:29.861
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 20:55:45.570
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.jface 2 0 2021-09-27 20:59:09.762
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-09-27 20:59:09.762
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.tm4e.languageconfiguration.togglelinecommentcommand,Toggle Line Comment,
+		,
+		Category(org.eclipse.tm4e.languageconfiguration.category,TM4E Language Configuration,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6b445934,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.springframework.tooling.boot.ls.ToggleComment,Toggle Comment,
+		,
+		Category(org.springframework.ide.eclipse.commands,Spring Generic Text Editor,Spring Language Server Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5c97a373,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.ui 2 2 2021-09-27 21:00:36.906
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-09-27 21:01:31.545
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:01:31.747
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:01:46.424
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:01:56.562
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:01:56.679
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:01:56.805
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:01:57.827
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:01:58.852
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:02.023
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:04.282
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:04.505
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:05.147
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:05.361
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:05.907
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:05.925
+!MESSAGE 
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.mylyn.wikitext.parser.markup.AbstractMarkupLanguage$PatternBasedSyntax.findPatternBasedElement(AbstractMarkupLanguage.java:161)
+	at org.eclipse.mylyn.wikitext.parser.markup.AbstractMarkupLanguage.emitMarkupLine(AbstractMarkupLanguage.java:438)
+	at org.eclipse.mylyn.wikitext.parser.markup.AbstractMarkupLanguage.emitMarkupLine(AbstractMarkupLanguage.java:477)
+	at org.eclipse.mylyn.wikitext.markdown.internal.block.ParagraphBlock.processLineContent(ParagraphBlock.java:61)
+	at org.eclipse.mylyn.wikitext.markdown.internal.block.NestableBlock.processLine(NestableBlock.java:27)
+	at org.eclipse.mylyn.wikitext.markdown.internal.util.ReadAheadDispatcher.processLineContent(ReadAheadDispatcher.java:68)
+	at org.eclipse.mylyn.wikitext.parser.markup.AbstractMarkupLanguage.processContent(AbstractMarkupLanguage.java:302)
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parse(MarkupParser.java:93)
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parse(MarkupParser.java:83)
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:121)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:05.926
+!MESSAGE 
+!STACK 0
+java.lang.IllegalStateException
+	at org.eclipse.mylyn.wikitext.parser.markup.AbstractMarkupLanguage$PatternBasedSyntax.findPatternBasedElement(AbstractMarkupLanguage.java:161)
+	at org.eclipse.mylyn.wikitext.parser.markup.AbstractMarkupLanguage.emitMarkupLine(AbstractMarkupLanguage.java:438)
+	at org.eclipse.mylyn.wikitext.parser.markup.AbstractMarkupLanguage.emitMarkupLine(AbstractMarkupLanguage.java:477)
+	at org.eclipse.mylyn.wikitext.markdown.internal.block.ParagraphBlock.processLineContent(ParagraphBlock.java:61)
+	at org.eclipse.mylyn.wikitext.markdown.internal.block.NestableBlock.processLine(NestableBlock.java:27)
+	at org.eclipse.mylyn.wikitext.markdown.internal.util.ReadAheadDispatcher.processLineContent(ReadAheadDispatcher.java:68)
+	at org.eclipse.mylyn.wikitext.parser.markup.AbstractMarkupLanguage.processContent(AbstractMarkupLanguage.java:302)
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parse(MarkupParser.java:93)
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parse(MarkupParser.java:83)
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:121)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:06.120
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:07.041
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:10.895
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:11.079
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:11.280
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:11.322
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:11.503
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:11.544
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:11.677
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:11.730
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:11.971
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:12.087
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:12.179
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:12.545
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:12.760
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:15.224
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:15.285
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:15.355
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:15.403
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:15.593
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:16.529
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:16.751
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:20.038
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:20.977
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:21.102
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:21.171
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:21.307
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:21.310
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:21.424
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:21.490
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:21.599
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:21.717
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:21.917
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:22.021
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:22.042
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:22.141
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:22.253
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:22.864
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:23.082
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:25.175
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:25.346
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:25.580
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:26.140
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:26.322
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:26.544
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:28.517
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:28.734
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:30.060
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:30.173
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:30.270
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:30.879
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:31.437
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:31.883
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:32.457
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:33.066
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:33.970
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:36.092
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:37.224
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:37.328
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:37.476
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:37.601
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:38.332
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:38.489
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:38.623
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:38.731
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:38.848
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:39.056
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:39.189
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:39.389
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:39.530
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:39.633
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:39.759
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:44.992
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:45.604
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:49.304
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:49.426
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:49.763
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:49.882
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:02:49.999
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:02:50.121
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:51.976
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:54.471
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:55.465
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:56.745
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:57.435
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:02:58.214
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:02.663
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:05.673
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:06.081
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:07.154
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:10.964
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:13.941
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:14.988
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:15.736
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:17.843
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:19.413
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:20.712
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:20.800
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:20.937
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:21.160
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:21.294
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:22.434
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:22.754
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:23.653
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:28.518
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:29.334
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:29.633
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:29.875
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:30.581
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:32.791
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:32.948
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:33.054
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:33.216
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:33.434
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:33.505
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:34.804
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:34.885
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:35.103
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:35.324
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:35.602
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:36.072
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:37.955
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:38.219
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:38.433
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:38.790
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:39.085
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:40.093
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:40.927
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:41.039
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:41.176
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:41.368
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:41.469
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-09-27 21:03:41.630
+!MESSAGE Builder must not be set
+!STACK 0
+java.lang.IllegalStateException: Builder must not be set
+	at org.eclipse.mylyn.wikitext.parser.MarkupParser.parseToHtml(MarkupParser.java:114)
+	at org.eclipse.lsp4e.LSPEclipseUtils.getHtmlDocString(LSPEclipseUtils.java:854)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:325)
+	at org.eclipse.lsp4e.operations.completion.LSIncompleteCompletionProposal.getAdditionalProposalInfo(LSIncompleteCompletionProposal.java:1)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$Timer$2$1.run(AdditionalInfoController.java:116)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-09-27 21:03:42.016
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:43.375
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:43.721
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:43.940
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:44.158
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:44.626
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:45.396
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:45.996
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:46.218
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:47.215
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:49.596
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:51.719
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:52.043
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:53.212
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:55.008
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:55.693
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:57.480
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:58.115
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:59.239
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:03:59.930
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:00.772
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:01.094
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:01.804
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:06.905
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:07.009
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:12.676
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:12.905
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:14.526
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:14.738
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:14.808
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:15.027
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:19.426
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:19.636
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:19.820
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:20.055
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:20.174
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:20.391
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:20.858
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:21.073
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:22.997
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:23.221
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:23.296
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:23.519
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:23.630
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:23.861
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:24.265
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:24.489
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:27.628
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:27.847
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:29.331
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:29.560
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:30.371
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:30.589
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:33.190
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:33.411
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:43.548
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:43.780
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:47.490
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:47.520
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:55.324
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:55.580
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:56.552
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:04:56.776
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:23.192
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:25.665
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:28.360
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:28.384
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:37.188
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:37.210
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:43.756
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:45.360
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:05:46.914
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:07:38.460
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:07:43.721
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:07:43.746
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:00.022
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:00.244
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:00.947
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:01.177
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:03.278
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:03.496
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:04.228
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:04.448
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:05.163
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:05.378
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:07.252
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:08.203
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:08.981
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:09.746
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:13.390
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:13.417
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:22.696
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:23.632
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:24.369
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:25.233
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:26.388
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:26.408
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:30.179
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:30.388
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:43.397
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:43.586
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:43.778
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:43.991
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:44.090
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:44.306
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:44.980
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:45.188
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:45.221
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:45.446
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:45.551
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:08:45.770
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:15.554
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:29.411
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:29.630
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:32.796
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:33.028
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:33.246
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:33.378
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:33.614
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:33.641
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:33.800
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:33.883
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:34.105
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:34.248
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:34.293
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:34.529
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:35.042
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:35.216
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:35.443
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:35.995
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:36.125
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:36.351
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:42.489
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:48.474
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:48.864
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:49.656
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:50.405
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:55.404
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:56.077
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:57.395
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:09:57.782
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:10:01.800
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:10:02.123
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:10:21.451
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:10:21.678
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:10:45.467
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:10:45.616
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:19:35.294
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:19:35.526
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:19:42.045
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:19:42.267
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:19:44.753
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:19:45.055
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:21:04.221
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:21:05.942
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:21:06.223
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:24:06.788
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:24:07.070
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:25:04.863
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:25:05.743
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-09-27 21:26:03.230
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-09-27 21:27:55.423
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:27:56.005
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:36:54.386
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:36:54.641
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:40:09.308
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:40:09.675
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-09-27 21:45:46.872
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-09-27 21:45:50.198
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:45:50.730
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:46:08.912
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:46:09.502
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:46:39.142
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:46:39.720
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:48:01.951
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:48:02.598
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:48:28.178
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:48:28.717
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:54:53.926
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:54:54.636
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:55:11.701
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:55:12.252
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:55:33.209
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:55:33.740
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:56:27.132
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:56:27.718
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:56:35.720
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:56:36.267
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:56:42.169
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:56:42.315
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:59:52.191
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 21:59:52.405
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 22:00:03.979
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 22:00:04.531
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 22:00:30.985
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 22:00:31.580
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 22:01:18.288
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 22:01:18.867
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 22:03:20.665
+!MESSAGE Has main method computation for project 'bootcamp'
+
+!ENTRY Activator 1 0 2021-09-27 22:03:21.242
+!MESSAGE Has main method computation for project 'bootcamp'

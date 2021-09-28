@@ -1,0 +1,22 @@
+package com.matera.bootcamp.domain.model;
+
+public class ContaCorrente {
+
+	@Entity
+	public class ContaCorrente {
+		
+		@Id
+		private Long id;
+		
+		@Column(nullable = false)
+		private Long agencia;
+		
+		@Column(nullable = false)
+		private Long conta;
+		
+		@Column(precision = 10, scale = 2, nullable = false)
+		private BigDecimal saldo;
+
+	}
+}
+

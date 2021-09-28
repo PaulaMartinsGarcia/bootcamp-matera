@@ -1,0 +1,10 @@
+spring:
+ h2:
+  console:
+    enable: true
+    path: /h2
+datasource:
+ url:jdbc:h2:fie:~/h2db
+ username:h2sa
+ password:admin
+ driver-class-name:org.h2.Driver
