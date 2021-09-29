@@ -1,0 +1,5 @@
+package com.matera.bootcamp.domain.model;
+
+public class TipoChave {
+
+}
