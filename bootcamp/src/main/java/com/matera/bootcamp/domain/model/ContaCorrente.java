@@ -7,6 +7,9 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.OneToOne;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
 
 //@Data
 @Entity
@@ -24,6 +27,10 @@ import javax.persistence.Id;
 		
 		@Column(precision = 10, scale = 2, nullable = false)
 		private BigDecimal saldo;
+		
+		@OneToOne(mappedBy = "contaCorrente")
+		@JsonIgnore
+		private Usuario usuario;
 
 		public Long getId() {
 			return id;
