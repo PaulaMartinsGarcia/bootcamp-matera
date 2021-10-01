@@ -1,0 +1,5 @@
+package com.matera.bootcamp.service.usuario;
+
+public class UsuarioCrudService {
+
+}

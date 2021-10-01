@@ -1,0 +1,6 @@
+package com.matera.bootcamp.domain.model;
+
+public interface UsuarioRepository {
+
+	
+}

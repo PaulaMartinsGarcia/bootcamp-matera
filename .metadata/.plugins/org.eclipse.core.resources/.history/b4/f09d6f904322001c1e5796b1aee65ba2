@@ -1,0 +1,8 @@
+package com.matera.bootcamp.service.chave;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class ChaveCrudService {
+
+}

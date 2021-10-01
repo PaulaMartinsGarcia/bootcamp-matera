@@ -1,0 +1,11 @@
+package com.matera.bootcamp.service.usuario;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UsuarioCrudService {
+
+	public Usuario salvar(Usuario usuario) {
+		return null;
+	}
+}

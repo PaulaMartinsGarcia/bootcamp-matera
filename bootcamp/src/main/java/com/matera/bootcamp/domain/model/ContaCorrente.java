@@ -8,9 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-import lombok.Data;
-
-@Data
+//@Data
 @Entity
 	public class ContaCorrente {
 		
@@ -27,5 +25,38 @@ import lombok.Data;
 		@Column(precision = 10, scale = 2, nullable = false)
 		private BigDecimal saldo;
 
+		public Long getId() {
+			return id;
+		}
+
+		public void setId(Long id) {
+			this.id = id;
+		}
+
+		public Long getAgencia() {
+			return agencia;
+		}
+
+		public void setAgencia(Long agencia) {
+			this.agencia = agencia;
+		}
+
+		public Long getConta() {
+			return conta;
+		}
+
+		public void setConta(Long conta) {
+			this.conta = conta;
+		}
+
+		public BigDecimal getSaldo() {
+			return saldo;
+		}
+
+		public void setSaldo(BigDecimal saldo) {
+			this.saldo = saldo;
+		}
+
+		
 }
 

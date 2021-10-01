@@ -1,0 +1,38 @@
+package com.matera.bootcamp.rest.usuario;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.ResponseStatus;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.matera.bootcamp.domain.model.Usuario;
+import com.matera.bootcamp.service.UsuarioCrudService;
+
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequiredArgsConstructor
+public class UsuarioCrudApiController{
+	
+	@Autowired
+	private UsuarioCrudService usuarioCrudService;
+	
+	@PostMapping("/api/v1/usuario")
+	@ResponseStatus(HttpStatus.CREATED)
+	public Usuario save(@RequestBody Usuario usuario) {
+		return usuarioCrudService.save(usuario);
+	}
+	
+	@GetMapping("/api/v1/usuario")
+	public ResponseEntity<Page<Usuario>> buscarPaginado(Pageable pageable) {
+		var paginaUsuarios = usuarioCrudService.buscarPaginado(pageable);
+		
+		return ResponseEntity.status(HttpStatus.OK).body(paginaUsuarios);
+    }
+}

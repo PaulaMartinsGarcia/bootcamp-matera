@@ -1,0 +1,5 @@
+package com.matera.bootcamp.domain.repository;
+
+public interface ContaCorrenteRepository {
+
+}

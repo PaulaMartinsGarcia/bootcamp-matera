@@ -1,0 +1,10 @@
+package com.matera.bootcamp.service;
+
+import com.matera.bootcamp.domain.model.Usuario;
+
+public class UsuarioCrudService {
+	public Usuario salvar(Usuario usuario) {
+		return null;
+	}
+
+}

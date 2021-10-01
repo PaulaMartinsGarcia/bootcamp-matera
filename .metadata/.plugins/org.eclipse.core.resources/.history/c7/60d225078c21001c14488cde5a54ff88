@@ -1,0 +1,26 @@
+package com.matera.bootcamp.rest.usuario;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.matera.bootcamp.domain.model.Usuario;
+import com.matera.bootcamp.service.UsuarioCrudService;
+
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequiredArgsConstructor
+public class UsuarioCrudApiController {
+	
+	private final UsuarioCrudService usuarioCrudService;
+	
+	@PostMapping("/api/v1/usuario")
+	public Usuario salvar(@RequestBody Usuario usuario, 
+							HttpServletRequest httpRequest,
+							HttpServletResponse httpResponse) {
+		return usuarioCrudService.salvar(usuario);
+	}

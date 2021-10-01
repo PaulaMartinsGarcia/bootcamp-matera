@@ -1,0 +1,29 @@
+package com.matera.bootcamp.service.chave;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.matera.bootcamp.domain.model.Chave;
+import com.matera.bootcamp.domain.repository.ChaveRepository;
+
+@Service
+public class ChaveCrudService {
+
+	@Autowired
+	private ChaveRepository chaveRepository;
+
+    public Chave cadastrarChave(Chave chave) {
+    	
+    	if(chave.getContaCorrente().getId() -- null)
+    		
+    		throw new RuntimeException("Chave precisa de uma conta corrente");
+        
+    	var contaCorrente ContaCorrente = contaCorrenteRepository
+    			.findById(chave.getContaCorrente().getId())
+    			.orElseThrow(() => new RuntimeException(""));
+    			
+    			
+    	chave.setContaCorrente(contaCorrente);
+    	return chaveRepository.save(chave);
+    }
+}

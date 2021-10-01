@@ -1,0 +1,5 @@
+package com.matera.bootcamp.rest.chave;
+
+public class ChaveCrudApiController {
+
+}

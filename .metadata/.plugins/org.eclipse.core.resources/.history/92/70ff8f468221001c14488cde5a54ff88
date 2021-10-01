@@ -1,0 +1,20 @@
+package com.matera.bootcamp.service;
+
+import org.springframework.stereotype.Service;
+
+import com.matera.bootcamp.domain.model.Usuario;
+import com.matera.bootcamp.domain.repository.UsuarioRepository;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class UsuarioCrudService {
+	
+	private final UsuarioRepository usuarioRepository;
+	
+	public Usuario salvar(Usuario usuario) {
+		return usuarioRepository.save(usuario)
+	}
+
+}

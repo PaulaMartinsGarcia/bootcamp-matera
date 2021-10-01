@@ -9,9 +9,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
-import lombok.Data;
-
-@Data
+//@Data
 @Entity
 public class Chave {
 
@@ -28,5 +26,38 @@ public class Chave {
 	
 	@ManyToOne(optional = false)
 	private ContaCorrente contaCorrente;
+
+	public Long getId() {
+		return id;
+	}
+
+	public void setId(Long id) {
+		this.id = id;
+	}
+
+	public TipoChave getTipoChave() {
+		return tipoChave;
+	}
+
+	public void setTipoChave(TipoChave tipoChave) {
+		this.tipoChave = tipoChave;
+	}
+
+	public String getValor() {
+		return valor;
+	}
+
+	public void setValor(String valor) {
+		this.valor = valor;
+	}
+
+	public ContaCorrente getContaCorrente() {
+		return contaCorrente;
+	}
+
+	public void setContaCorrente(ContaCorrente contaCorrente) {
+		this.contaCorrente = contaCorrente;
+	}
+	
 	
 }
